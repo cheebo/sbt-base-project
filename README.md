@@ -1,4 +1,4 @@
 sbt-base-project
 ================
 
-Empty SBT project with build and 
+Empty SBT project
